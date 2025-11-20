@@ -79,7 +79,6 @@ An intelligent Retrieval-Augmented Generation (RAG) system built with IBM Granit
 docuquery-rag/
 ├── app.py                # Main Streamlit application
 ├── requirements.txt      # Python dependencies
-├── .env.example          # Environment variables template
 ├── src/
 │   ├── config.py         # Configuration settings
 │   └── rag_pipeline.py   # Core RAG pipeline logic
