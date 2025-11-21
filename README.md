@@ -117,6 +117,7 @@ streamlit run app.py
 
 ```
 docuquery-rag/
+├── LICENSE  
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── .env.example           # Environment variables template
